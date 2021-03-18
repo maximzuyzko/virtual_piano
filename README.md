@@ -3,8 +3,8 @@
 Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
-Francis - [@retiredbarista](https://twitter.com/retiredbarista) - [JetBrains Academy](https://hyperskill.org/profile/59115237)
-Project Link: [https://github.com/eunai/Virtual-Piano](https://github.com/eunai/Virtual-Piano)
+[JetBrains Academy](https://hyperskill.org/profile/59115237)
+Project Link: [https://github.com/maximzuyzko/virtual_piano](https://github.com/maximzuyzko/virtual_piano)
     
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
