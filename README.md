@@ -8,7 +8,7 @@ The completed project allows you to play the piano using A S F G H J & W E T Y U
 Distributed under the MIT License.
 <!-- CONTACT -->
 ## Contact
-[Mail](maximzuyzko@gmail.com) [JetBrains Academy](https://hyperskill.org/profile/80511110)
+ [JetBrains Academy](https://hyperskill.org/profile/80511110)
 Project Link: [https://github.com/maximzuyzko/virtual_piano](https://github.com/maximzuyzko/virtual_piano)
     
 <!-- ACKNOWLEDGEMENTS -->
